@@ -1,0 +1,7 @@
+dash
+geopandas
+plotly
+shapely
+pandas
+numpy
+gunicorn
